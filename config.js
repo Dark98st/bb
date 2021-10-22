@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'HELLO!',
+    introDesc: `Đọc cái này đi tuy không giúp bạn hết buồn nhưng đỡ được phần nào`,
+    btnIntro: ':3 :3',
+    title: 'Đọc tới đây rồi thì đọc tiếp đê�:<',
+    desc: 'Tại thấy không giúp được gì nên làm cái này cho nó vui vui ',
+    btnYes: 'Đọc tiếp vậy',
+    btnNo: 'Không, Lười không đọc :3',
+    question:'Tốt coi đến đây thì hi vọng bạn sẽ đỡ , dù không biết xảy ra chuyện gi nhưng "Tối rồi buồn dị sao mà ngủuuuuuuu" ',
+    btnReply: 'Gửi cho tui :>',
+    reply: 'Bớt rảnh lại đi nha.. à không oki cảm ơn nha :v',
+    mess: 'kk Tui biết tui rảnh mà. rảnh đối với mấy người tui thấy nên rảnh thôi, Nên là "Đừng buồn nữa.. Hãy vui lên :v',
+    messDesc: 'Đọc xong thì đi ngủ sớm đi nghen',
+    btnAccept: 'Okiiiii lun :3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
